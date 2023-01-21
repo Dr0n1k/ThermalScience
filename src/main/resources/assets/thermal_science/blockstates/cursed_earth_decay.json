@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "decay=0": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=1": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=10": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=11": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=12": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=13": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=14": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=15": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=2": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=3": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=4": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=5": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=6": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=7": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=8": {
+            "model": "thermal_science:block/cursed_earth"
+        },
+        "decay=9": {
+            "model": "thermal_science:block/cursed_earth"
+        }
+    }
+}

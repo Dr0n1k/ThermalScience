@@ -1,0 +1,6 @@
+{
+    "parent": "thermal_science:block/ender_lilly",
+    "textures": {
+        "crop": "thermal_science:block/ender_lilly/ender_lilly_stage_4"
+    }
+}

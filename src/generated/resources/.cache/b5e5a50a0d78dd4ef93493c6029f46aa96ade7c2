@@ -1,0 +1,15 @@
+// 1.19.2	2023-01-21T18:58:50.1511738	Thermal Science: Item Tags
+6d29ade5188522816ebfc04b7f4b8bb8bbdc1bc5 data/forge/tags/items/cobblestone.json
+010da65d95eb2e3116cba7a330cd38310f07d8a1 data/forge/tags/items/dusts.json
+e151d847cc74022deb8aaf135ad9fc6f8a3e0702 data/forge/tags/items/dusts/obsidian.json
+cbb7291126f0536244e23426e49d21b0532677be data/forge/tags/items/dusts/peridot.json
+2e58e12f7211a6aab4a51fa960341346d4809cf2 data/forge/tags/items/gears.json
+a15adcb411c03b8fa99479a88796f1a8e171d02b data/forge/tags/items/gears/peridot.json
+c002e6a8664c61b4784571480c1ed104cf83e120 data/forge/tags/items/gems.json
+76c772ce9379a66423e198d2463cda3bf58a6b32 data/forge/tags/items/gems/peridot.json
+4efbff3cf6ca9a05928d9cb62ea211cf883103ee data/forge/tags/items/ores.json
+db7c8040d88a65850d725d3a4bc80da67895bf93 data/forge/tags/items/ores/peridot.json
+8cbdf491e555ead12784729b92456a7767def997 data/forge/tags/items/stone.json
+f072d820f019fce3ad72da1cf8d3c49ff3bbc311 data/forge/tags/items/storage_blocks.json
+c873675578db52049a262a21973116dca7057c8b data/forge/tags/items/storage_blocks/peridot.json
+d1dad813dfe3db957719fa8407a56482aafeca9e data/minecraft/tags/items/stone_bricks.json

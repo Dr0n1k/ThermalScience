@@ -1,0 +1,6 @@
+{
+  "parent": "thermal:block/machine_base",
+  "textures": {
+    "north": "thermal_science:block/machine/machine_assembly"
+  }
+}

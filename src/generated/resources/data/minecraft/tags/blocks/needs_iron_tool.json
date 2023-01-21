@@ -1,0 +1,12 @@
+{
+  "values": [
+    "thermal_science:basalt_cobblestone",
+    "thermal_science:basalt_stone",
+    "thermal_science:basalt_paver",
+    "thermal_science:basalt_bricks",
+    "thermal_science:basalt_chiseled_bricks",
+    "thermal_science:peridot_ore",
+    "thermal_science:deepslate_peridot_ore",
+    "thermal_science:peridot_block"
+  ]
+}

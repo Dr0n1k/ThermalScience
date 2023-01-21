@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/grass_block",
+    "render_type": "cutout",
+    "textures": {
+        "overlay": "thermal_science:block/cursed_earth_side",
+        "top": "thermal_science:block/cursed_earth_top"
+    }
+}

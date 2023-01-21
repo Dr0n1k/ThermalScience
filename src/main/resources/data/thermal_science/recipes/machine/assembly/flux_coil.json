@@ -1,0 +1,9 @@
+{
+    "type": "thermal_science:assembly",
+    "ingredients": [
+        {"tag": "forge:ingots/gold"},
+        {"tag": "forge:dusts/redstone"}
+    ],
+    "result": {"item": "thermal:rf_coil"},
+    "energy": 25000
+}

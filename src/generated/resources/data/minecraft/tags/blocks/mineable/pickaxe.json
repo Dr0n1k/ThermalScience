@@ -1,0 +1,18 @@
+{
+  "values": [
+    "thermal_science:machine_assembly",
+    "thermal_science:peridot_ore",
+    "thermal_science:deepslate_peridot_ore",
+    "thermal_science:peridot_block",
+    "thermal_science:redrock_cobblestone",
+    "thermal_science:redrock_stone",
+    "thermal_science:redrock_bricks",
+    "thermal_science:basalt_cobblestone",
+    "thermal_science:basalt_stone",
+    "thermal_science:basalt_paver",
+    "thermal_science:basalt_bricks",
+    "thermal_science:basalt_chiseled_bricks",
+    "thermal_science:marble_stone",
+    "thermal_science:marble_bricks"
+  ]
+}

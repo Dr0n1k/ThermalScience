@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "thermal_science:block/ender_lilly_stage_0" },
+        "age=1": { "model": "thermal_science:block/ender_lilly_stage_1" },
+        "age=2": { "model": "thermal_science:block/ender_lilly_stage_2" },
+        "age=3": { "model": "thermal_science:block/ender_lilly_stage_3" },
+        "age=4": { "model": "thermal_science:block/ender_lilly_stage_4" },
+        "age=5": { "model": "thermal_science:block/ender_lilly_stage_5" },
+        "age=6": { "model": "thermal_science:block/ender_lilly_stage_6" },
+        "age=7": { "model": "thermal_science:block/ender_lilly_stage_7" }
+    }
+}

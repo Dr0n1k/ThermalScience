@@ -1,0 +1,14 @@
+// 1.19.2	2023-01-21T18:58:50.1502017	Thermal Science: Block Tags
+6d29ade5188522816ebfc04b7f4b8bb8bbdc1bc5 data/forge/tags/blocks/cobblestone.json
+4efbff3cf6ca9a05928d9cb62ea211cf883103ee data/forge/tags/blocks/ores.json
+db7c8040d88a65850d725d3a4bc80da67895bf93 data/forge/tags/blocks/ores/peridot.json
+8cbdf491e555ead12784729b92456a7767def997 data/forge/tags/blocks/stone.json
+f072d820f019fce3ad72da1cf8d3c49ff3bbc311 data/forge/tags/blocks/storage_blocks.json
+c873675578db52049a262a21973116dca7057c8b data/forge/tags/blocks/storage_blocks/peridot.json
+1fc0976e6f51dcc4da8e5a698c335eb73ed190a8 data/minecraft/tags/blocks/base_stone_overworld.json
+f072d820f019fce3ad72da1cf8d3c49ff3bbc311 data/minecraft/tags/blocks/beacon_base_blocks.json
+4d4cbc2f56e534800d3d8ae813fe1e31b3f7875c data/minecraft/tags/blocks/mineable/pickaxe.json
+3f58943aa49874dc372d10674a8ea5558a6c9dbf data/minecraft/tags/blocks/mineable/shovel.json
+fbf191ba48f1d7fef2a98a9409caff861411f09c data/minecraft/tags/blocks/needs_iron_tool.json
+c27372df8c14e480079b3dd07cb444208e4a29ab data/minecraft/tags/blocks/needs_stone_tool.json
+d1dad813dfe3db957719fa8407a56482aafeca9e data/minecraft/tags/blocks/stone_bricks.json
